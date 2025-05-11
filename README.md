@@ -20,6 +20,14 @@ A blazing-fast React project template using **Vite**, **TypeScript**, **Tailwind
 - 🌐 Easily deploy via Lovable or any static host
 
 ## 🛠️ Getting Started
+ScreenShots!!!!!!!!
+
+![Screenshot 2025-05-11 110043](https://github.com/user-attachments/assets/3f4b0800-c923-481a-9892-1fff81f6b91f)
+![Screenshot 2025-05-11 110022](https://github.com/user-attachments/assets/968a839d-f873-4bb0-bc34-b6e708d30e91)
+![Screenshot 2025-05-11 110030](https://github.com/user-attachments/assets/614caa14-dbe6-4c15-9a62-dada640f2ecb)
+![Screenshot 2025-05-11 110037](https://github.com/user-attachments/assets/57e706e7-208c-4429-819a-b841ef6051fb)
+![Screenshot 2025-05-11 105945](https://github.com/user-attachments/assets/6cc90673-8574-46ef-9b2b-dd06908ce42d)
+
 
 ### 1. Clone the repository
 ```bash
@@ -92,13 +100,6 @@ Optionally, connect a custom domain
 🤝 Contribution
 Feel free to fork the project, create a branch, and submit pull requests. Make sure to lint and test your code before submitting!
 
-ScreenShots!!!!!!!!
-
-![Screenshot 2025-05-11 110043](https://github.com/user-attachments/assets/3f4b0800-c923-481a-9892-1fff81f6b91f)
-![Screenshot 2025-05-11 110022](https://github.com/user-attachments/assets/968a839d-f873-4bb0-bc34-b6e708d30e91)
-![Screenshot 2025-05-11 110030](https://github.com/user-attachments/assets/614caa14-dbe6-4c15-9a62-dada640f2ecb)
-![Screenshot 2025-05-11 110037](https://github.com/user-attachments/assets/57e706e7-208c-4429-819a-b841ef6051fb)
-![Screenshot 2025-05-11 105945](https://github.com/user-attachments/assets/6cc90673-8574-46ef-9b2b-dd06908ce42d)
 
 
 
