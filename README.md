@@ -1,62 +1,73 @@
-# Vite React TypeScript UI Project
+# Welcome to your Lovable project
 
-A blazing-fast React project template using **Vite**, **TypeScript**, **Tailwind CSS**, and **shadcn/ui** for scalable, styled applications with prebuilt UI components and Radix accessibility.
+## Project info
 
-## 🚀 Features
+**URL**: https://lovable.dev/projects/c21d4da9-9a5e-4647-8ee6-e8ec5d01b002
 
-- ⚡ Lightning-fast dev with Vite
-- 🎨 Tailwind CSS & Typography plugins
-- 🧩 Prebuilt UI components via shadcn/ui & Radix primitives
-- 🔐 Zod & react-hook-form for schema-based forms
-- 🌓 Theme toggling with next-themes
-- 📊 Built-in support for charts, carousels, and dialogs
-- 🧼 ESLint support for code quality
-- 🌐 Easily deploy via Lovable or any static host
+## How can I edit this code?
 
-├── src/
-│   ├── components/       # UI and custom components
-│   ├── lib/              # Utilities
-│   ├── hooks/            # Custom hooks
-│   └── index.css         # Tailwind base styles
-├── public/               # Static assets
-├── .gitignore
-├── package.json
-├── postcss.config.js
-├── tailwind.config.ts
-└── vite.config.ts
-📚 Technologies Used
-React
+There are several ways of editing your application.
 
-Vite
+**Use Lovable**
 
-TypeScript
+Simply visit the [Lovable Project](https://lovable.dev/projects/c21d4da9-9a5e-4647-8ee6-e8ec5d01b002) and start prompting.
 
-Tailwind CSS
+Changes made via Lovable will be committed automatically to this repo.
 
-shadcn/ui
+**Use your preferred IDE**
 
-Radix UI
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-Zod
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-React Hook Form
+Follow these steps:
 
-Recharts
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
-Embla Carousel
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
-🌍 Deployment
-Deploy this project instantly using Lovable:
+# Step 3: Install the necessary dependencies.
+npm i
 
-Open Lovable Project Page
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
 
-Click Share > Publish
+**Edit a file directly in GitHub**
 
-Optionally, connect a custom domain
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
 
-🤝 Contribution
-Feel free to fork the project, create a branch, and submit pull requests. Make sure to lint and test your code before submitting!
+**Use GitHub Codespaces**
 
-📝 License
-This project is licensed under the MIT License.
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
 
+## What technologies are used for this project?
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+## How can I deploy this project?
+
+Simply open [Lovable](https://lovable.dev/projects/c21d4da9-9a5e-4647-8ee6-e8ec5d01b002) and click on Share -> Publish.
+
+## Can I connect a custom domain to my Lovable project?
+
+Yes, you can!
+
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
