@@ -23,8 +23,8 @@ A blazing-fast React project template using **Vite**, **TypeScript**, **Tailwind
 
 ### 1. Clone the repository
 ```bash
-git clone <YOUR_REPO_URL>
-cd <YOUR_REPO_NAME>
+git clone https://github.com/skills-beep/Gelephu-Mindfulness-City.git
+cd https://github.com/skills-beep/Gelephu-Mindfulness-City.git
 2. Install dependencies
 bash
 Copy
